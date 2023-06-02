@@ -4,3 +4,8 @@
 /.settings/
 /.classpath
 .svn/
+Reports
+Libs
+output
+.project
+bin
